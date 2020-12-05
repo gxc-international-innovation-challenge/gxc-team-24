@@ -1,3 +1,3 @@
 # Hello World
 
-This is for the GitHub page.
+This is for the G-Ski GitHub page.
