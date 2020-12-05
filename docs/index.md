@@ -1,3 +1,3 @@
 # Hello World
 
-This is for the page.
+This is for the GitHub page.
