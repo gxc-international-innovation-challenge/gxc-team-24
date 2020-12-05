@@ -11,11 +11,11 @@ Introducing a new way to stay connected to your winter sport buddies, build comm
 
 ## Meet the Team
 ![Teamphoto](https://github.com/gxc-international-innovation-challenge/gxc-team-24/blob/main/Team.PNG)
-**Kevin:** University of Applied Sciences, Munich, Germany
-**Mehr:** California Polytechnic State University, San Luis Obispo, USA
-**Eddie:** Tampere University of Applied Sciences, Tampere, Finland
-**Derek:** California Polytechnic State University, San Luis Obispo, USA
-**Michael:** University of Applied Sciences, Munich, Germany
+* **Kevin:** University of Applied Sciences, Munich, Germany
+* **Mehr:** California Polytechnic State University, San Luis Obispo, USA
+* **Eddie:** Tampere University of Applied Sciences, Tampere, Finland
+* **Derek:** California Polytechnic State University, San Luis Obispo, USA
+* **Michael:** University of Applied Sciences, Munich, Germany
 
 ## Skiing is not simply a winter sport, but a community in Germany
 Every year, hundreds of people in Germany look forward to the snowy season when they can enjoy different winter sports and outdoor events, typically including skiing. Considered as a healthy exercise for all ages, skiing is not only a hobby but a must-try sport in the winter. The popularity of skiing in Germany can be seen through different competitions and educational programs which gather a large number of ski athletes, trainers and fans. With respect to this winter sport, the German Ski Federation has a long-established reputation as a national organization committed to the development of skiing. What they have concerned for many years is how to strengthen the current ski community in Germany as many residents are still acting individually or within their network in the ski events or trips. In the Virtual International Challenge 2020, the Team is happy to put forward our innovative ideas to the German Ski Federation as the solution. 
