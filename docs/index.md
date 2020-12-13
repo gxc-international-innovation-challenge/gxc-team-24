@@ -19,9 +19,6 @@ You can find all the information on our wiki page about the [Final prototype](ht
 ## Documentation
 [GitHub wiki](https://github.com/gxc-international-innovation-challenge/gxc-team-24/wiki)
 
-## Our GitHub page
-[GitHub page](https://gxc-international-innovation-challenge.github.io/gxc-team-24)
-
 ## Meet the Team
 * **Kevin:** University of Applied Sciences, Munich, Germany
 * **Mehr:** California Polytechnic State University, San Luis Obispo, USA
